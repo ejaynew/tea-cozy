@@ -1,0 +1,154 @@
+* {
+    font-family: Helvetica;
+    color: seashell;
+    background-color: black;
+    opacity: 0.92;
+    text-align: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-size: 22px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    float: right;
+    margin: 15px;
+}
+
+nav {
+    background-color: black;
+    height: 69px;
+    border-bottom: 1px solid seashell;
+}
+
+#navbar-brand {
+    height: 50px;
+    margin-left: 10px;
+    float: left;
+}
+
+#hero-image {
+    height: 700px;
+}
+
+#mission-statement {
+    width: 1200px;
+    position: absolute;
+    padding-left: 40px;
+    top: 350px;
+    justify-content: center;
+}
+
+#featured-tea {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#featured-container {
+    width: 1000px;
+}
+
+.featured-tea-images h4 {
+    margin-top: 5px;
+}
+
+.tea-container {
+    display: inline-block;
+    margin: 10px;
+}
+
+.tea-image {
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+}
+
+#locations-image {
+    height: 500px;
+    width: 75%;
+    position: relative;
+}
+
+#locations h2 {
+    background-color: transparent;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 1600px;
+    text-align: center;
+}
+
+#locations .featured-locations {
+    background-color: transparent;
+    position: absolute;
+    top: 1730px;
+    width: 250px;
+}
+
+#locations .featured-text {
+    background-color: black;
+    padding: 5px;
+}
+
+.left-aligned {
+    left: 200px;
+}
+
+.center-aligned {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 1600px;
+    text-align: center;
+}
+
+.right-aligned {
+    right: 200px;
+}
+
+#contact {
+    height: 200px;
+}
+
+#contact h2 {
+    margin-top: 10px;
+}
+
+#contact h5 {
+    margin-top: 40px;
+}
+
+#footer h5 {
+    float: left;
+    margin-left: 20px;
+}
